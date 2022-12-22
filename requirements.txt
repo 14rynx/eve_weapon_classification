@@ -1,0 +1,6 @@
+selenium
+numpy
+keras
+tensorflow
+pillow
+SciPy
